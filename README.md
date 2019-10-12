@@ -1,4 +1,13 @@
-# pagination-component-vue-example
+# Pagination Component in Vue.js
+
+## Introduction
+This is a simple Vue.js application showcasing a basic pagination component.
+This component was created as a companion for my article about Vue pagination component.
+
+
+## Example Usage
+
+ 
 
 ## Project setup
 ```
