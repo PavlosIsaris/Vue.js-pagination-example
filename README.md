@@ -7,6 +7,7 @@ This component was created as a companion for my article about Vue pagination co
 
 ## Example Usage
 
+![Example pagination component]()
  
 
 ## Project setup
