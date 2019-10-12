@@ -7,7 +7,7 @@ This component was created as a companion for my article about Vue pagination co
 
 ## Example Usage
 
-![Example pagination component](https://raw.githubusercontent.com/PavlosIsaris/Vue.js-pagination-example/master/public/img/example.gif)
+![Example pagination component](https://raw.githubusercontent.com/PavlosIsaris/Vue.js-pagination-example/master/public/img/example2.gif)
  
 
 ## Project setup
